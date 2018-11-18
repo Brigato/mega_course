@@ -23,6 +23,7 @@ def meaning(w):
     else:
         return "The word does not exist. Please, double check it"
 
+
 word = input("Enter word: ")
 
 # print(SequenceMatcher(None, "rain", "rainn").ratio())
